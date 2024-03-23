@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+article {
+    text-align: center;
+    justify-content: center;
+}
+
+.text {
+    padding: 10px 100px 10px 100px;
+    text-align: justify;
+
+
+}
+
+
+.image {
+    margin: auto;
+    display: block;
+
+}
+
+
+nav {
+    display: flex;
+    gap: 1000px;
+
+}
+
+.darkModeText {
+    color: yellow;
+
+}
+
+.darkModeBack {
+    background-color: black;
+
+}
